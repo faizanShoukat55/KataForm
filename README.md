@@ -1,6 +1,6 @@
 # katta_form
 
-A new Flutter project.
+A complete firebase project to manage a dairy form
 
 ## Getting Started
 
