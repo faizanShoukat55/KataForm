@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498747335800",
+    "project_id": "kattaform",
+    "storage_bucket": "kattaform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498747335800:android:266a38fc28ce024a90398d",
+        "android_client_info": {
+          "package_name": "com.inovedia.kataform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498747335800-r6sa7t7fk56pbldue3po2jckg2m0qpom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6dHP_ai7Loqu-hL2IgLGsNJKzWrpJBTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498747335800-r6sa7t7fk56pbldue3po2jckg2m0qpom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
